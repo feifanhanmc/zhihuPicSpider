@@ -37,7 +37,7 @@ class Facepp:
         return faces_list
     
 if __name__ == "__main__":
-    p = Facepp('FR2qXQzfPwSzjZNC1KSdQBiJD8h_sVIx','0M7jG1b4nxdp6eBH8nnirkcefUWD91C-')
+    p = Facepp('FR2qXQz******************BiJD8h_sVIx','0M7jG1b4***********efUWD91C-')
     image_url = 'https://pic2.zhimg.com/v2-cee25f70eadb4b477d74a7017f220b61_b.jpg'    #女
 #     image_url = 'https://pic1.zhimg.com/27a1a0c48a799f60b655d8949879949c_b.png'    #狗
 #     image_url = 'https://pic4.zhimg.com/v2-8709766148ac3bada3e96c2771a17feb_b.jpg'    #男
