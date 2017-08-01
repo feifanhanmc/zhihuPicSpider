@@ -38,7 +38,7 @@ def prase_html(html, ONLY_FEMALE = False):
             pass
         
         if ONLY_FEMALE :
-            p = facepp.Facepp('FR2qXQzfPwSzjZNC1KSdQBiJD8h_sVIx','0M7jG1b4nxdp6eBH8nnirkcefUWD91C-')
+            p = facepp.Facepp('FR2qXQzf**************D8h_sVIx','0M7jG1*************UWD91C-')
             print img_url_b
             if p.has_female(img_url_b):
                 if img_url_r:   #如果有原图，则优先选用原图
